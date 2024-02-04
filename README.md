@@ -42,6 +42,10 @@
 
 ## 2. 개인정보의 제3자 제공
 
+### Google Analytics
+
+동아리는 더 나은 프로젝트를 진행, 제공하기 위핸 목적으로 Google, Inc. (이하 구글)이 제공하는 웹 분석 서비스 Google Analytics를 사용하여 사용자의 인구통계학적 데이터를 수집합니다. 동아리는 이 정보를 통해 사용자가 프로젝트를 어떻게 이용하는지 분석, 평가하고 각종 프로젝트를 개선하여 제공합니다.
+
 <table>
   <thead>
     <tr>
@@ -52,10 +56,18 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan=3>현재 동아리가 제공하는 서비스 중 제 3자에게 제공하는 개인정보 항목이 없습니다.</td>
+      <td>사용자 통계 및 추세 파악</td>
+      <td>익명 처리된 인구통계학적 데이터</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
+
+Google Analytics를 통해 수집되는 정보의 처리는 Google 개인정보보호정책과 Google Analytics 이용약관을 적용 받습니다.
+1. Google 개인정보보호정책 : https://www.google.com/intl/ko/policies/privacy/
+2. Google Analytics 이용약관 : https://www.google.com/analytics/terms/kr.html
+
+동아리는 Google Analytics를 통해 개인을 식별할 수 있는 정보는 수집하지 않으며, 수집한 정보를 다른 경로를 통해 얻은 개인식별 정보와 결합하지 않습니다.
 
 ## 3. 개인정보 자동 수집 장치의 설치·운영 및 거부
 
@@ -114,3 +126,4 @@
 
 ### 변경 이력
 1. 1판 - 2023-11-22 공고, 2023-11-29 시행
+2. 1.1판 - 
